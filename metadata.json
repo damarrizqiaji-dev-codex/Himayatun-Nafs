@@ -1,0 +1,6 @@
+{
+  "name": "Himayatun-Nafs: Ruang Aman Santri",
+  "description": "Sistem Perlindungan Santri Terpadu Berlandaskan Nilai Amanah & Rahmah dengan Alur Petugas, Protokol PROTECT, dan Evaluasi Pengawas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
